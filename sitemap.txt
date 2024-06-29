@@ -1,2 +1,3 @@
+http://example.com/2024/06/29/My-New-Post/
 http://example.com/2024/06/29/hello-world/
 http://example.com/
