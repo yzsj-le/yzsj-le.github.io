@@ -1,4 +1,4 @@
-http://example.com/2024/06/29/%E7%AC%AC%E4%B8%80%E7%AF%87/
-http://example.com/2024/06/29/My-New-Post/
-http://example.com/2024/06/29/hello-world/
+http://example.com/posts/73626faf.html
+http://example.com/posts/177574ba.html
+http://example.com/posts/4a17b156.html
 http://example.com/

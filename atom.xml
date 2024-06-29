@@ -18,8 +18,8 @@
   
   <entry>
     <title>第一篇</title>
-    <link href="http://example.com/2024/06/29/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
-    <id>http://example.com/2024/06/29/%E7%AC%AC%E4%B8%80%E7%AF%87/</id>
+    <link href="http://example.com/posts/73626faf.html"/>
+    <id>http://example.com/posts/73626faf.html</id>
     <published>2024-06-29T08:28:59.000Z</published>
     <updated>2024-06-29T08:28:59.241Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>My New Post</title>
-    <link href="http://example.com/2024/06/29/My-New-Post/"/>
-    <id>http://example.com/2024/06/29/My-New-Post/</id>
+    <link href="http://example.com/posts/177574ba.html"/>
+    <id>http://example.com/posts/177574ba.html</id>
     <published>2024-06-29T08:21:15.000Z</published>
     <updated>2024-06-29T08:21:15.618Z</updated>
     
@@ -44,8 +44,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/06/29/hello-world/"/>
-    <id>http://example.com/2024/06/29/hello-world/</id>
+    <link href="http://example.com/posts/4a17b156.html"/>
+    <id>http://example.com/posts/4a17b156.html</id>
     <published>2024-06-29T07:34:29.079Z</published>
     <updated>2024-06-29T07:34:29.079Z</updated>
     
