@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://yzsj.cloudns.ch/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://yzsj.cloudns.ch/"/>
   <updated>2024-06-30T08:48:16.850Z</updated>
-  <id>http://example.com/</id>
+  <id>http://yzsj.cloudns.ch/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>nihao</title>
-    <link href="http://example.com/posts/41213a0f.html"/>
-    <id>http://example.com/posts/41213a0f.html</id>
+    <link href="http://yzsj.cloudns.ch/posts/41213a0f.html"/>
+    <id>http://yzsj.cloudns.ch/posts/41213a0f.html</id>
     <published>2024-06-30T08:48:09.000Z</published>
     <updated>2024-06-30T08:48:16.850Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>My Gallery</title>
-    <link href="http://example.com/posts/undefined.html"/>
-    <id>http://example.com/posts/undefined.html</id>
+    <link href="http://yzsj.cloudns.ch/posts/undefined.html"/>
+    <id>http://yzsj.cloudns.ch/posts/undefined.html</id>
     <published>2024-06-29T16:20:14.000Z</published>
     <updated>2024-06-29T16:33:19.807Z</updated>
     
@@ -51,8 +51,8 @@
   
   <entry>
     <title>nihao</title>
-    <link href="http://example.com/posts/41213a0f.html"/>
-    <id>http://example.com/posts/41213a0f.html</id>
+    <link href="http://yzsj.cloudns.ch/posts/41213a0f.html"/>
+    <id>http://yzsj.cloudns.ch/posts/41213a0f.html</id>
     <published>2024-06-29T08:37:35.000Z</published>
     <updated>2024-06-29T08:37:41.012Z</updated>
     
@@ -64,8 +64,8 @@
   
   <entry>
     <title>My New Post</title>
-    <link href="http://example.com/posts/177574ba.html"/>
-    <id>http://example.com/posts/177574ba.html</id>
+    <link href="http://yzsj.cloudns.ch/posts/177574ba.html"/>
+    <id>http://yzsj.cloudns.ch/posts/177574ba.html</id>
     <published>2024-06-29T08:21:15.000Z</published>
     <updated>2024-06-29T08:36:43.826Z</updated>
     
@@ -77,8 +77,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="http://yzsj.cloudns.ch/posts/4a17b156.html"/>
+    <id>http://yzsj.cloudns.ch/posts/4a17b156.html</id>
     <published>2024-06-29T07:34:29.079Z</published>
     <updated>2024-06-29T08:36:43.826Z</updated>
     
