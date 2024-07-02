@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>愿终守君</title>
   
   
   <link href="http://yzsj.cloudns.ch/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://yzsj.cloudns.ch/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>le</name>
     
   </author>
   
