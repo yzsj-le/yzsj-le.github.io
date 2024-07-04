@@ -116,7 +116,10 @@
 
 
 
-
+/*post页透明一图流*/
+#page-header.post-bg:before {
+  background-color: rgba(0,0,0,0.0);
+}
 
 
 
