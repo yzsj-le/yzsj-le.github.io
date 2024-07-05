@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yzsj.cloudns.ch/tags/index.html</loc>
+    
+    <lastmod>2024-07-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://yzsj.cloudns.ch/posts/3790bd68.html</loc>
     
     <lastmod>2024-07-05</lastmod>
@@ -48,15 +57,6 @@
   
   <url>
     <loc>http://yzsj.cloudns.ch/movies/index.html</loc>
-    
-    <lastmod>2024-07-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://yzsj.cloudns.ch/tags/index.html</loc>
     
     <lastmod>2024-07-03</lastmod>
     
