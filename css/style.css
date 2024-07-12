@@ -129,7 +129,7 @@
 @media (max-width: 960px) {
   /* Aplayer音乐标签伸缩 */
   .aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
-    left: -80px !important;
+    left: -150px !important;
     /* 默认情况下缩进左侧66px，只留一点箭头部分 */
   }
 
